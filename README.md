@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory Lab Environment</b>
-  - [Active Directory Lab](github.com/JaredSchroeder/Active-Directory-Lab)
+  - [Active Directory Lab](https://github.com/JaredSchroeder/Active-Directory-Lab)
 - <b>osTicket (Help desk ticketing system)</b>
   - [link here](link here)
 
